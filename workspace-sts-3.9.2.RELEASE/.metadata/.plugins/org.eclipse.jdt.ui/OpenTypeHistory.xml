@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=atnewmall-common/E:\/ecode\/maven\/RepMaven\/org\/springframework\/spring-web\/4.0.0.RELEASE\/spring-web-4.0.0.RELEASE.jar&lt;org.springframework.web.filter(CharacterEncodingFilter.class[CharacterEncodingFilter" modifiers="33" timestamp="1464225986052"/>
+<typeInfo handle="=atnewmall-web/E:\/ecode\/maven\/RepMaven\/javax\/servlet\/servlet-api\/2.5\/servlet-api-2.5.jar&lt;javax.servlet(ServletContextListener.class[ServletContextListener" modifiers="1537" timestamp="1502295193646"/>
+<typeInfo handle="=atnewmall-web/E:\/ecode\/maven\/RepMaven\/org\/glassfish\/javax.servlet\/3.0-b70\/javax.servlet-3.0-b70.jar&lt;javax.servlet(ServletContext.class[ServletContext" modifiers="1537" timestamp="1502295193553"/>
+<typeInfo handle="=atnewmall-web/E:\/ecode\/maven\/RepMaven\/javax\/servlet\/servlet-api\/2.5\/servlet-api-2.5.jar&lt;javax.servlet(ServletContext.class[ServletContext" modifiers="1537" timestamp="1502295193646"/>
+<typeInfo handle="=atnewmall-common/src\/main\/java&lt;com.atguigu.atnewmall.bean{BaseController.java[BaseController" modifiers="1025" timestamp="1583466325828"/>
+<typeInfo handle="=atnewmall-manager/C:\/Program Files\/Java\/jdk1.8.0_91\/jre\/lib\/rt.jar&lt;java.lang.reflect(Member.class[Member" modifiers="1537" timestamp="1543300118339"/>
+<typeInfo handle="=atnewmall-manager-api/src\/main\/java&lt;com.atguigu.atnewmall.manager.service{MemberOrderService.java[MemberOrderService" modifiers="513" timestamp="1584264020393"/>
+</typeInfoHistroy>
